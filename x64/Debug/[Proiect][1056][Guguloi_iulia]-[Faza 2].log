@@ -1,0 +1,13 @@
+﻿  [Proiect][1056][Guguloi_iulia]-[Faza 2].cpp
+D:\CSIE an 2\Sem 1\POO\[Proiect][1056][Guguloi_iulia]-[Faza 2]\[Proiect][1056][Guguloi_iulia]-[Faza 2].cpp(155,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CSIE an 2\Sem 1\POO\[Proiect][1056][Guguloi_iulia]-[Faza 2]\[Proiect][1056][Guguloi_iulia]-[Faza 2].cpp(418,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CSIE an 2\Sem 1\POO\[Proiect][1056][Guguloi_iulia]-[Faza 2]\[Proiect][1056][Guguloi_iulia]-[Faza 2].cpp(461,27): warning C4584: 'ProdusDulce': base-class 'fisiere' is already a base-class of 'Produs'
+D:\CSIE an 2\Sem 1\POO\[Proiect][1056][Guguloi_iulia]-[Faza 2]\[Proiect][1056][Guguloi_iulia]-[Faza 2].cpp(12,7): message : see declaration of 'fisiere'
+D:\CSIE an 2\Sem 1\POO\[Proiect][1056][Guguloi_iulia]-[Faza 2]\[Proiect][1056][Guguloi_iulia]-[Faza 2].cpp(181,7): message : see declaration of 'Produs'
+D:\CSIE an 2\Sem 1\POO\[Proiect][1056][Guguloi_iulia]-[Faza 2]\[Proiect][1056][Guguloi_iulia]-[Faza 2].cpp(491,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CSIE an 2\Sem 1\POO\[Proiect][1056][Guguloi_iulia]-[Faza 2]\[Proiect][1056][Guguloi_iulia]-[Faza 2].cpp(648,26): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\CSIE an 2\Sem 1\POO\[Proiect][1056][Guguloi_iulia]-[Faza 2]\[Proiect][1056][Guguloi_iulia]-[Faza 2].cpp(1153,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CSIE an 2\Sem 1\POO\[Proiect][1056][Guguloi_iulia]-[Faza 2]\[Proiect][1056][Guguloi_iulia]-[Faza 2].cpp(737): warning C4715: 'Meniu::verificareProduse': not all control paths return a value
+D:\CSIE an 2\Sem 1\POO\[Proiect][1056][Guguloi_iulia]-[Faza 2]\[Proiect][1056][Guguloi_iulia]-[Faza 2].cpp(402): warning C4715: 'Produs::verificareStoc': not all control paths return a value
+D:\CSIE an 2\Sem 1\POO\[Proiect][1056][Guguloi_iulia]-[Faza 2]\[Proiect][1056][Guguloi_iulia]-[Faza 2].cpp(114): warning C4715: 'MateriiPrime::actualizareCantitate': not all control paths return a value
+  [Proiect][1056][Guguloi_iulia]-[Faza 2].vcxproj -> D:\CSIE an 2\Sem 1\POO\[Proiect][1056][Guguloi_iulia]-[Faza 2]\x64\Debug\[Proiect][1056][Guguloi_iulia]-[Faza 2].exe
